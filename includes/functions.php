@@ -1,4 +1,4 @@
 <?php
 
-$appRoot = "http://localhost/teamgravity";
+$appRoot = "https://team-gravity.herokuapp.com/";
 $errors = "";
